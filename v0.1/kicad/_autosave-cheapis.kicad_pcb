@@ -539,7 +539,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "077807e9-5e9d-4167-9eb0-4780c4d9e883")
+			(uuid "c538f618-63d8-4e85-a3e7-c2eba14ec0ea")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -550,7 +550,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "077807e9-5e9d-4167-9eb0-4780c4d9e883")
+			(uuid "f196277b-fa25-45cd-aa05-599d62fbfc62")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -561,7 +561,7 @@
 			(net 16 "unconnected-(SW8-Pad2)")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "077807e9-5e9d-4167-9eb0-4780c4d9e883")
+			(uuid "4ba49e22-23ba-4299-8e6d-0744b6dcb249")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -583,7 +583,7 @@
 			(net 8 "row2")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "553b41f4-ca48-4be9-8010-97714bf69898")
+			(uuid "5089eabe-d2c0-4a29-9a64-ae160e8f14cc")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -594,7 +594,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "553b41f4-ca48-4be9-8010-97714bf69898")
+			(uuid "ce60d45a-b4b5-4185-8793-0058315db67e")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -995,7 +995,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "2b58fc84-633f-4d18-8a0c-b0a023151546")
+			(uuid "bc80d400-1e0a-4e21-a45e-74c2dd0c49b8")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 325)
@@ -1006,7 +1006,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "2b58fc84-633f-4d18-8a0c-b0a023151546")
+			(uuid "6b253499-f0da-4678-917a-de875e1ac0e7")
 		)
 		(pad "2" thru_hole circle
 			(at 3.8 -3.8 145)
@@ -1017,7 +1017,7 @@
 			(net 22 "unconnected-(SW16-Pad2)")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "2b58fc84-633f-4d18-8a0c-b0a023151546")
+			(uuid "9431e0a4-ebc3-4804-adb8-0293a5f48c03")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 325)
@@ -1039,7 +1039,7 @@
 			(net 1 "row4")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "019a8d23-82fc-4e5c-acdb-7c29b00a7e3f")
+			(uuid "e350b0cc-8abb-4b35-a118-418ef6e81779")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 325)
@@ -1050,7 +1050,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "019a8d23-82fc-4e5c-acdb-7c29b00a7e3f")
+			(uuid "bc09cc78-9529-430d-bfc9-919a8c01f91c")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -1451,7 +1451,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "06567ff8-6404-40df-9e75-f5400f76b13b")
+			(uuid "6e82830a-ba83-4d81-abe1-eb9e06007f59")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -1462,7 +1462,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "06567ff8-6404-40df-9e75-f5400f76b13b")
+			(uuid "ef4b98c8-e7d2-4844-a32e-c266d493e730")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -1473,7 +1473,7 @@
 			(net 25 "unconnected-(SW7-Pad2)_1")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "06567ff8-6404-40df-9e75-f5400f76b13b")
+			(uuid "79fd9c4a-9dd5-4e75-88a5-51c60621eca4")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -1495,7 +1495,7 @@
 			(net 8 "row2")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "0b276962-55da-4829-939e-b9b84fa41ebe")
+			(uuid "e32c9c2c-7eda-4b29-bf40-9801b158c343")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -1506,7 +1506,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "0b276962-55da-4829-939e-b9b84fa41ebe")
+			(uuid "8f200606-4c35-4c3e-972b-d1d43e54f167")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -1907,7 +1907,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "070a1a42-8db5-4639-a34a-c8fe99f67240")
+			(uuid "a2065c34-c31c-4c05-8187-783b572e3938")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -1918,7 +1918,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "070a1a42-8db5-4639-a34a-c8fe99f67240")
+			(uuid "4e40a5cc-846f-4c0e-925c-81182cb49a71")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -1929,7 +1929,7 @@
 			(net 13 "unconnected-(SW4-Pad2)")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "070a1a42-8db5-4639-a34a-c8fe99f67240")
+			(uuid "76c416b9-702c-4026-9d64-4f6ecad53f7c")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -1951,7 +1951,7 @@
 			(net 3 "row1")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "242e94f2-d9ce-4bac-aca2-fcd0fb92c9d9")
+			(uuid "da5403bf-e6a3-416c-98fb-218c20b0a7b4")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -1962,7 +1962,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "242e94f2-d9ce-4bac-aca2-fcd0fb92c9d9")
+			(uuid "3796b330-b07d-402d-8bdc-bca857556fe7")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -2083,7 +2083,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "65dc5a72-05a0-4ab9-a2fc-b1264abfd579")
+			(uuid "6af2e9ce-2b5e-4f5d-96d6-c0cb6d855a7c")
 		)
 		(pad "1" thru_hole circle
 			(at -1.166726 1.166726)
@@ -2092,7 +2092,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "65dc5a72-05a0-4ab9-a2fc-b1264abfd579")
+			(uuid "e75631e5-a6d2-46a1-af83-18b0e654254a")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -1.65)
@@ -2101,7 +2101,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "65dc5a72-05a0-4ab9-a2fc-b1264abfd579")
+			(uuid "af34367a-712a-42b9-9845-3e029b955378")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -2109,7 +2109,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "65dc5a72-05a0-4ab9-a2fc-b1264abfd579")
+			(uuid "07396749-59cf-42da-958b-167ca37c3582")
 		)
 		(pad "1" thru_hole circle
 			(at 0 1.65)
@@ -2118,7 +2118,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "65dc5a72-05a0-4ab9-a2fc-b1264abfd579")
+			(uuid "9af4f9be-5df5-42be-9d8b-17830f485a80")
 		)
 		(pad "1" thru_hole circle
 			(at 1.166726 -1.166726)
@@ -2127,7 +2127,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "65dc5a72-05a0-4ab9-a2fc-b1264abfd579")
+			(uuid "a8960b75-1dc8-4ad5-8924-fb3b7dcba773")
 		)
 		(pad "1" thru_hole circle
 			(at 1.166726 1.166726)
@@ -2136,7 +2136,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "65dc5a72-05a0-4ab9-a2fc-b1264abfd579")
+			(uuid "80a4bca6-2a8e-4730-aada-a6519b8b1808")
 		)
 		(pad "1" thru_hole circle
 			(at 1.65 0)
@@ -2145,7 +2145,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "65dc5a72-05a0-4ab9-a2fc-b1264abfd579")
+			(uuid "35ec9a12-06cd-434b-b4d8-de3f1cc110a1")
 		)
 		(embedded_fonts no)
 	)
@@ -2535,7 +2535,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "206e5eef-3a91-4534-aac5-8f2275564081")
+			(uuid "fcb0caff-a551-46d7-9c17-ca6222aa1a33")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -2546,7 +2546,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "206e5eef-3a91-4534-aac5-8f2275564081")
+			(uuid "cef1e049-44cf-4cf1-ae2a-4b69c6c910f7")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -2557,7 +2557,7 @@
 			(net 14 "unconnected-(SW5-Pad2)")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "206e5eef-3a91-4534-aac5-8f2275564081")
+			(uuid "0574296c-7589-40ce-9e58-6eba339d3fd3")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -2579,7 +2579,7 @@
 			(net 3 "row1")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "20e16252-e6c1-4761-8ebc-52e9519e48c3")
+			(uuid "375f6bf0-69c3-41d4-962d-f2c15f76f048")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -2590,7 +2590,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "20e16252-e6c1-4761-8ebc-52e9519e48c3")
+			(uuid "794f4545-7758-4d35-8111-cc5b44cede55")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -2991,7 +2991,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "0845c021-0ab2-4edd-98ce-cc711a114d33")
+			(uuid "d1e2be93-69b3-48a5-bf41-4b0be01bbf1e")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -3002,7 +3002,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "0845c021-0ab2-4edd-98ce-cc711a114d33")
+			(uuid "4bc1517a-7337-4643-a4bc-8c02691401e5")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -3013,7 +3013,7 @@
 			(net 17 "unconnected-(SW9-Pad2)")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "0845c021-0ab2-4edd-98ce-cc711a114d33")
+			(uuid "69cd5f34-0274-4336-8e15-576dba8ee366")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -3035,7 +3035,7 @@
 			(net 8 "row2")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "2d7e5bfe-403e-461e-b098-4055e28942ac")
+			(uuid "91d31ac2-9930-4cff-8263-f127b73d12bb")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -3046,7 +3046,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "2d7e5bfe-403e-461e-b098-4055e28942ac")
+			(uuid "eb671236-79aa-4d17-b1f9-7de24862cb0c")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -3538,7 +3538,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "b1233f6c-f899-44a8-8fcb-7e34c5b30414")
+			(uuid "c7530893-f2ac-411d-a3f0-f1b5ccf9e2ab")
 		)
 		(pad "1" thru_hole circle
 			(at -1.166726 1.166726)
@@ -3547,7 +3547,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "b1233f6c-f899-44a8-8fcb-7e34c5b30414")
+			(uuid "8b289f05-0516-42c5-82d1-19c393c3cb9b")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -1.65)
@@ -3556,7 +3556,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "b1233f6c-f899-44a8-8fcb-7e34c5b30414")
+			(uuid "d4c2549f-2c36-4f66-802d-48ea57c1e5f9")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -3564,7 +3564,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "b1233f6c-f899-44a8-8fcb-7e34c5b30414")
+			(uuid "4ea3ddea-567c-4244-bfaa-78b14d036927")
 		)
 		(pad "1" thru_hole circle
 			(at 0 1.65)
@@ -3573,7 +3573,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "b1233f6c-f899-44a8-8fcb-7e34c5b30414")
+			(uuid "fbd36f79-9103-4894-a730-472acfc4bbe1")
 		)
 		(pad "1" thru_hole circle
 			(at 1.166726 -1.166726)
@@ -3582,7 +3582,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "b1233f6c-f899-44a8-8fcb-7e34c5b30414")
+			(uuid "6acc8d06-b440-4fc2-b63a-b93ac089cb60")
 		)
 		(pad "1" thru_hole circle
 			(at 1.166726 1.166726)
@@ -3591,7 +3591,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "b1233f6c-f899-44a8-8fcb-7e34c5b30414")
+			(uuid "437eaccd-7928-49d7-ae05-810a99420998")
 		)
 		(pad "1" thru_hole circle
 			(at 1.65 0)
@@ -3600,7 +3600,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "b1233f6c-f899-44a8-8fcb-7e34c5b30414")
+			(uuid "f8c2b7bc-19a6-4ac6-96f2-135c04694042")
 		)
 		(embedded_fonts no)
 	)
@@ -4189,7 +4189,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "0bad286e-6966-4211-805b-feaee620e103")
+			(uuid "89e3e7be-0e70-41e3-872b-2238fb941361")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -4200,7 +4200,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "0bad286e-6966-4211-805b-feaee620e103")
+			(uuid "4126c096-e2d1-45a1-97e0-b4b62ba0a792")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -4211,7 +4211,7 @@
 			(net 18 "unconnected-(SW10-Pad2)")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "0bad286e-6966-4211-805b-feaee620e103")
+			(uuid "53208f95-f70f-4fec-b614-5cf33029b0a7")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -4233,7 +4233,7 @@
 			(net 8 "row2")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "5db74378-a199-42ef-904a-ec4c7a20e372")
+			(uuid "16174699-4977-4430-a12d-eda87bb3bc2d")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -4244,7 +4244,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5db74378-a199-42ef-904a-ec4c7a20e372")
+			(uuid "831b9624-2bd9-40e8-8b58-60f9201528ee")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -4365,7 +4365,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "3678960b-ca6c-4028-b976-d9095f8bac69")
+			(uuid "b315904a-e3b4-4e24-837c-de5d117b8bc8")
 		)
 		(pad "1" thru_hole circle
 			(at -1.166726 1.166726)
@@ -4374,7 +4374,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "3678960b-ca6c-4028-b976-d9095f8bac69")
+			(uuid "44611f93-74e1-4b9a-a746-0b10e783fa0e")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -1.65)
@@ -4383,7 +4383,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "3678960b-ca6c-4028-b976-d9095f8bac69")
+			(uuid "fbeaa306-fd42-463d-82c6-c65ce7e60806")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -4391,7 +4391,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "3678960b-ca6c-4028-b976-d9095f8bac69")
+			(uuid "e63c041e-1122-4505-b2d6-ad3d6f4088ac")
 		)
 		(pad "1" thru_hole circle
 			(at 0 1.65)
@@ -4400,7 +4400,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "3678960b-ca6c-4028-b976-d9095f8bac69")
+			(uuid "4cff42af-253a-452b-9a3c-f045f429c9da")
 		)
 		(pad "1" thru_hole circle
 			(at 1.166726 -1.166726)
@@ -4409,7 +4409,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "3678960b-ca6c-4028-b976-d9095f8bac69")
+			(uuid "fd1f9bce-6de2-4408-92fa-1b775a7170d1")
 		)
 		(pad "1" thru_hole circle
 			(at 1.166726 1.166726)
@@ -4418,7 +4418,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "3678960b-ca6c-4028-b976-d9095f8bac69")
+			(uuid "d39774e0-19d6-4ac7-a16f-1405675fdf19")
 		)
 		(pad "1" thru_hole circle
 			(at 1.65 0)
@@ -4427,7 +4427,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "3678960b-ca6c-4028-b976-d9095f8bac69")
+			(uuid "7c0ddbf0-75e9-4302-8fc7-dff3861ba14b")
 		)
 		(embedded_fonts no)
 	)
@@ -4817,7 +4817,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "1ff6bed0-5e2f-406d-92c8-36fdf0a66d7d")
+			(uuid "20fce755-dd48-4523-831b-ce97fac957ce")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -4828,7 +4828,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "1ff6bed0-5e2f-406d-92c8-36fdf0a66d7d")
+			(uuid "db9b4171-a28a-4308-bb15-1f777da0d738")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -4839,7 +4839,7 @@
 			(net 21 "unconnected-(SW15-Pad2)")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "1ff6bed0-5e2f-406d-92c8-36fdf0a66d7d")
+			(uuid "36b511a5-7018-459a-b609-a4f55a3e5139")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -4861,7 +4861,7 @@
 			(net 9 "row3")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "01daf9dd-ae3e-40f2-91e7-9ac0f04dcc31")
+			(uuid "ec886561-dabc-425f-9a8d-814cdef9bf8a")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -4872,7 +4872,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "01daf9dd-ae3e-40f2-91e7-9ac0f04dcc31")
+			(uuid "a2cea1eb-b961-4e7d-b971-cedf37c45ca4")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -5273,7 +5273,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "5d21fb79-ec81-4d64-bf56-63b92dc8f120")
+			(uuid "d871bd1f-547f-4bc6-bd97-e6946dafb161")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -5284,7 +5284,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "5d21fb79-ec81-4d64-bf56-63b92dc8f120")
+			(uuid "63107e91-821b-4368-bb47-64a14b8ca18e")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -5295,7 +5295,7 @@
 			(net 11 "unconnected-(SW1-Pad2)_1")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "5d21fb79-ec81-4d64-bf56-63b92dc8f120")
+			(uuid "e404eeb5-968d-485b-a2a2-4cf7c725c888")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -5317,7 +5317,7 @@
 			(net 3 "row1")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "59787525-4ccb-44d1-9f48-2969bdd67a01")
+			(uuid "309bcbca-d81b-4901-89a8-6de865e855d8")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -5328,7 +5328,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "59787525-4ccb-44d1-9f48-2969bdd67a01")
+			(uuid "f60e93ac-615e-4883-ad1d-624d510fe76a")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -5729,7 +5729,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "11e281d3-49e7-48c9-b268-d1ae3efd7975")
+			(uuid "db90f39b-0267-472e-b216-6a8034171c08")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -5740,7 +5740,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "11e281d3-49e7-48c9-b268-d1ae3efd7975")
+			(uuid "9acd27ee-99be-403c-bdea-8cf6c1812aaa")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -5751,7 +5751,7 @@
 			(net 24 "unconnected-(SW3-Pad2)_1")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "11e281d3-49e7-48c9-b268-d1ae3efd7975")
+			(uuid "d56ee4f6-3dce-4845-bc8d-02f39ce575f4")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -5773,7 +5773,7 @@
 			(net 3 "row1")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "00b095f5-f6d5-4185-bc61-e1066588bbd5")
+			(uuid "c46da9c9-0d3d-4a87-a336-a3d918b7607f")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -5784,7 +5784,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "00b095f5-f6d5-4185-bc61-e1066588bbd5")
+			(uuid "ee5d7414-7693-4098-b6d4-c7d5dff706b4")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -6049,7 +6049,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "9bc5ad23-1abe-4d3b-a5b1-312b7972788b")
+			(uuid "48594a3c-dc02-4d40-a1e5-37db7d52d8b0")
 		)
 		(pad "1" thru_hole circle
 			(at -1.166726 1.166726)
@@ -6058,7 +6058,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "9bc5ad23-1abe-4d3b-a5b1-312b7972788b")
+			(uuid "e08176a0-2001-4503-85f3-29ec31a7f3bf")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -1.65)
@@ -6067,7 +6067,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "9bc5ad23-1abe-4d3b-a5b1-312b7972788b")
+			(uuid "52499b82-3e55-4d41-8525-a6a67d6819e7")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -6075,7 +6075,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "9bc5ad23-1abe-4d3b-a5b1-312b7972788b")
+			(uuid "e65471f0-c326-4f26-b179-e777d0c0de73")
 		)
 		(pad "1" thru_hole circle
 			(at 0 1.65)
@@ -6084,7 +6084,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "9bc5ad23-1abe-4d3b-a5b1-312b7972788b")
+			(uuid "7cc18505-1133-4cd2-a45a-fbf649eb42c2")
 		)
 		(pad "1" thru_hole circle
 			(at 1.166726 -1.166726)
@@ -6093,7 +6093,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "9bc5ad23-1abe-4d3b-a5b1-312b7972788b")
+			(uuid "ed971e9b-98c8-4af3-8012-90d03cab51da")
 		)
 		(pad "1" thru_hole circle
 			(at 1.166726 1.166726)
@@ -6102,7 +6102,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "9bc5ad23-1abe-4d3b-a5b1-312b7972788b")
+			(uuid "59c14c2c-f619-4b14-8f52-9b6a1daca01a")
 		)
 		(pad "1" thru_hole circle
 			(at 1.65 0)
@@ -6111,7 +6111,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(zone_connect 2)
-			(uuid "9bc5ad23-1abe-4d3b-a5b1-312b7972788b")
+			(uuid "3f87c41c-21f0-4607-91f2-b036f6dd339e")
 		)
 		(embedded_fonts no)
 	)
@@ -6501,7 +6501,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "0aaa658b-43e6-4e59-96a9-b2f86c4749c6")
+			(uuid "5c01619e-9e07-46a8-aeda-7148e674194f")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 310)
@@ -6512,7 +6512,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "0aaa658b-43e6-4e59-96a9-b2f86c4749c6")
+			(uuid "d6ed81df-6f26-4c03-bae3-9bc0700fe807")
 		)
 		(pad "2" thru_hole circle
 			(at 3.8 -3.8 130)
@@ -6523,7 +6523,7 @@
 			(net 23 "unconnected-(SW17-Pad2)")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "0aaa658b-43e6-4e59-96a9-b2f86c4749c6")
+			(uuid "16a1d210-a5e5-45e4-983c-bb36beb8ce2e")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 310)
@@ -6545,7 +6545,7 @@
 			(net 1 "row4")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "1af9b9af-59cc-4365-ba80-04c6b199830d")
+			(uuid "dd35ea9b-05e0-4003-a01f-cdd195378f2d")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 310)
@@ -6556,7 +6556,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "1af9b9af-59cc-4365-ba80-04c6b199830d")
+			(uuid "daa4d0a1-dae3-4c1b-921c-a69f90debbf3")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -6957,7 +6957,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "13269152-5259-4065-a85f-da6743edcecb")
+			(uuid "905f3bdd-0e1c-4bc3-a612-0e3ac1761910")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -6968,7 +6968,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "13269152-5259-4065-a85f-da6743edcecb")
+			(uuid "8cf97fb3-fbe8-488c-b535-5af1a4b49793")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -6979,7 +6979,7 @@
 			(net 12 "unconnected-(SW2-Pad2)")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "13269152-5259-4065-a85f-da6743edcecb")
+			(uuid "d714ab87-34d1-40b2-aafb-73c39bc79e2b")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -7001,7 +7001,7 @@
 			(net 3 "row1")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "36fd545b-66cd-419a-9989-54bdd0e65300")
+			(uuid "0b8bed48-adfb-4248-8a1f-c9179396abf5")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -7012,7 +7012,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "36fd545b-66cd-419a-9989-54bdd0e65300")
+			(uuid "29abf171-fba5-4dfa-a5a7-5d3971b98cc9")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -7413,7 +7413,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "48bd1045-9fa5-4e08-b7ab-c66074d6e199")
+			(uuid "bf03f874-bacd-4d88-9913-7df9272c8554")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -7424,7 +7424,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "48bd1045-9fa5-4e08-b7ab-c66074d6e199")
+			(uuid "465c6b29-09c2-4d36-9308-1e99887595a6")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -7435,7 +7435,7 @@
 			(net 27 "unconnected-(SW14-Pad2)_1")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "48bd1045-9fa5-4e08-b7ab-c66074d6e199")
+			(uuid "46bbb428-060e-49e6-ba7c-2e8a1e98723e")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -7457,7 +7457,7 @@
 			(net 9 "row3")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "61c900f2-318d-49ed-b9b6-56de23224fc5")
+			(uuid "b0f348d1-65c3-43ac-9261-b09f594fd2b3")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -7468,7 +7468,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "61c900f2-318d-49ed-b9b6-56de23224fc5")
+			(uuid "e9fa35f4-8076-44a2-a425-f09c007d0543")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -7869,7 +7869,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "157e7af5-142d-4003-bcdb-9d491ed8273f")
+			(uuid "e0e3930f-0432-4338-8bcd-81a2398cbff3")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -7880,7 +7880,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "157e7af5-142d-4003-bcdb-9d491ed8273f")
+			(uuid "f2cd2946-0993-4717-811e-69a9aa086e8d")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -7891,7 +7891,7 @@
 			(net 20 "unconnected-(SW13-Pad2)")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "157e7af5-142d-4003-bcdb-9d491ed8273f")
+			(uuid "85915fd4-4287-434d-acb6-71e3066f6b69")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -7913,7 +7913,7 @@
 			(net 9 "row3")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "5d5bc154-fee0-4a4f-b7c3-f7bda0769c5c")
+			(uuid "700908db-bfce-4945-a5b8-226fbb7208cb")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -7924,7 +7924,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5d5bc154-fee0-4a4f-b7c3-f7bda0769c5c")
+			(uuid "5b2054b3-8806-4637-bcb2-9592be21b514")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -8325,7 +8325,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "055a49f2-2026-447c-888f-a48d0dcc13b0")
+			(uuid "2cde6b3e-de07-40a6-8fd9-3e795cfba8a0")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -8336,7 +8336,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "055a49f2-2026-447c-888f-a48d0dcc13b0")
+			(uuid "08878434-ceda-4eea-9fbf-bc5b2621621f")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -8347,7 +8347,7 @@
 			(net 15 "unconnected-(SW6-Pad2)")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "055a49f2-2026-447c-888f-a48d0dcc13b0")
+			(uuid "cfd1c8fc-94ce-4ee9-aa6a-15ffc04873a7")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -8369,7 +8369,7 @@
 			(net 8 "row2")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "1afe69fc-e338-47b4-b095-6d11d3a999d6")
+			(uuid "7ac4c7ff-54a8-4aaf-af95-2eb8fb97ced4")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -8380,7 +8380,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "1afe69fc-e338-47b4-b095-6d11d3a999d6")
+			(uuid "3c646fc6-3abb-4e72-a6ce-8ee23634c07c")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -8781,7 +8781,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "08139a60-3233-4274-81ea-337362f94519")
+			(uuid "a664c083-9690-409a-9cde-10b61be6e80e")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -8792,7 +8792,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "08139a60-3233-4274-81ea-337362f94519")
+			(uuid "68f2885d-2113-4f73-8e65-f1d7e638fc24")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -8803,7 +8803,7 @@
 			(net 19 "unconnected-(SW12-Pad2)")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "08139a60-3233-4274-81ea-337362f94519")
+			(uuid "3338431d-6754-4a1e-a5ad-bd996384d262")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -8825,7 +8825,7 @@
 			(net 9 "row3")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "0129f3d4-c7d7-4e1c-a9b0-0e6612896222")
+			(uuid "58f90057-e629-40e5-9e01-4c2c5f0492f9")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -8836,7 +8836,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "0129f3d4-c7d7-4e1c-a9b0-0e6612896222")
+			(uuid "1ee22e6f-08a2-4aa4-867b-e39791252fc6")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
@@ -9237,7 +9237,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "412c208b-04d5-4cdb-bdad-3d741bfe04e9")
+			(uuid "a52a2723-6d6a-4130-9450-dd2df7f7bf82")
 		)
 		(pad "2" smd roundrect
 			(at 1.5 5 340)
@@ -9248,7 +9248,7 @@
 			(pinfunction "2")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "412c208b-04d5-4cdb-bdad-3d741bfe04e9")
+			(uuid "149abaa6-e26c-45e6-8a33-2ce9db10c43c")
 		)
 		(pad "2" thru_hole circle
 			(at 3.800001 -3.8 160)
@@ -9259,7 +9259,7 @@
 			(net 26 "unconnected-(SW11-Pad2)_1")
 			(pinfunction "2")
 			(pintype "passive+no_connect")
-			(uuid "412c208b-04d5-4cdb-bdad-3d741bfe04e9")
+			(uuid "87c1ef20-97d5-45e1-a657-a3a0c2078c2e")
 		)
 		(pad "3" smd roundrect
 			(at -0.9 5 340)
@@ -9281,7 +9281,7 @@
 			(net 9 "row3")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "12c18ee9-7cb0-40c3-b36a-3f69170d6298")
+			(uuid "63055319-5e2d-4af2-bdf7-f4248dd28621")
 		)
 		(pad "3" smd roundrect
 			(at 0.9 5 340)
@@ -9292,7 +9292,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "12c18ee9-7cb0-40c3-b36a-3f69170d6298")
+			(uuid "d56677ba-3403-4e4f-b888-56fbd0c30d82")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Switch_Keyboard/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
