@@ -1,3 +1,16 @@
+```mermaid
+graph TD;
+
+subgraph Features
+  id1["Cherry MX, Kailh Choc V1"] --> id2["Redragon Low Profile (reversible)"];
+end
+
+```
+- Kicad 9.0 or newer maybe required
+- This project aims to change only the switch being used while minimizing changes to everything else to maintain the best compatibility.
+
+
+
 # cheapis
 
 v0.1 issues:
