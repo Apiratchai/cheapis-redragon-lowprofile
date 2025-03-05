@@ -1,17 +1,26 @@
 ```mermaid
 graph TD;
 
-subgraph Features
+
+subgraph In Progress
   id1["Cherry MX, Kailh Choc V1"] --> id2["Redragon Low Profile (reversible)"];
+  id3["First prototype is under production"]
+
 end
 
 ```
 - Kicad 9.0 or newer maybe required
 - This project aims to change only the switch being used while minimizing changes to everything else to maintain the best compatibility.
+- This is my first time using KiCad. May you and the Lord forgive me if files contain any mistakes or issues.
+
+<img src="./images/complete layers original.png" alt="complete layers original" width="700"/>
+Original PCB
+<img src="./images/complete layers redragon.png" alt="complete layers red dragon" width="700"/>
+Redragon PCB
 
 
 
-# cheapis
+# cheapis (The Original)
 
 v0.1 issues:
 - most ubs cables cannot be plugged in when the pro micro is soldered in an usual way (upright, with the usually included pins), because of the top middle buttons. It has to be solderes upside down, flush with the keyboard pcb.
