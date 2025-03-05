@@ -16,6 +16,8 @@ end
 - Kicad 9.0 or newer maybe required
 - This project aims to change only the switch being used while minimizing changes to everything else to maintain the best compatibility.
 - This is my first time using KiCad. May you and the Lord forgive me if files contain any mistakes or issues.
+- [Redragon Low Profile footprint]( https://github.com/rgoulter/keyboard-labs/blob/master/pcb/ProjectLocal.pretty/SW_Redragon_LowProfile_PCB_1.00u.kicad_mod
+) is from  [Rgoulter](https://github.com/rgoulter). Kudos to this man.
 
 <img src="./images/complete layers original.png" alt="complete layers original" width="700"/>
 Original PCB
