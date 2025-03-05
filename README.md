@@ -9,13 +9,14 @@ end
 subgraph To_Do
   id1["Laser cut switch-bottom plates (minimalist, full plate, etc)"];
   id2["my own ZMK firmware"]
+  id3["MX, Kailh Choc V1, Redragon switch support"]
 end
 
 
 ```
 - Kicad 9.0 or newer maybe required
 - This project aims to change only the switch being used while minimizing changes to everything else to maintain the best compatibility.
-- This is my first time using KiCad. May you and the Lord forgive me if files contain any mistakes or issues.
+- This is my first time using KiCad. May you and the Lord forgive me if files contain any mistakes or issues (It's the reason why I remove the support for both MX and Choc V1, I wasn't sure if I can make it work).
 - [Redragon Low Profile footprint]( https://github.com/rgoulter/keyboard-labs/blob/master/pcb/ProjectLocal.pretty/SW_Redragon_LowProfile_PCB_1.00u.kicad_mod
 ) is from  [Rgoulter](https://github.com/rgoulter). Kudos to this man.
 
@@ -23,6 +24,8 @@ end
 Original PCB
 <img src="./images/complete layers redragon.png" alt="complete layers red dragon" width="700"/>
 Redragon PCB
+<img src="./images/What will multi switch support looks like.png" alt="for blind people, I just put redragon footprint on top of the old design" width="700"/>
+If I just put redragon footprint on top of the old design, I think this will work with minimal change to the number 2 pad (make it smaller ?) I will try, 2$ per order anyway.
 
 
 
