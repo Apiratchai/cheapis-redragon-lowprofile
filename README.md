@@ -1,12 +1,16 @@
 ```mermaid
 graph TD;
 
-
-subgraph In Progress
-  id1["Cherry MX, Kailh Choc V1"] --> id2["Redragon Low Profile (reversible)"];
-  id3["First prototype is under production"]
-
+subgraph In_Progress
+  id3["Cherry MX, Kailh Choc V1"] --> id4["Redragon Low Profile (reversible)"];
+  id5["First prototype is under production"];
 end
+
+subgraph To_Do
+  id1["Laser cut switch-bottom plates (minimalist, full plate, etc)"];
+  id2["my own ZMK firmware"]
+end
+
 
 ```
 - Kicad 9.0 or newer maybe required
