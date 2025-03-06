@@ -26,9 +26,10 @@ Original PCB
 Redragon PCB
 <img src="./images/What will multi switch support looks like.png" alt="for blind people, I just put redragon footprint on top of the old design" width="700"/>
 If I just put redragon footprint on top of the old design, I think this will work with minimal change to the number 2 pad (make it smaller ?) I will try, 2$ per order anyway.
-<img src="./images/MX-Redragon-Choc.png" alt="for blind people, I just put redragon footprint on top of the old design" width="700"/>
+<img src="./images/MX_Redragon_Choc.png" width="700"/>
 The tri-switch-supported version (MX, Redragon, Choc) will have different stem hole cutouts, with MX and Choc featuring larger openings than Redragon. To prevent short circuits, Redragon switch pins have to be bent when installed.
-
+<img src="./images/FirstPrototype" width="700"/>
+First Protorype I ordered on JLCPCB
 
 
 # cheapis (The Original)
