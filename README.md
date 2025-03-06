@@ -2,14 +2,18 @@
 graph TD;
 
 subgraph In_Progress
-  id3["Cherry MX, Kailh Choc V1"] --> id4["Redragon Low Profile (reversible)"];
-  id5["First prototype is under production"];
+  id1["Cherry MX, Kailh Choc V1"] --> id2["Redragon Low Profile (reversible)"] --> id3["All MX, Kailh Choc V1, Redragon low profile switches support (In Branch)"];
+  id4["First prototype is under production (JLC)"];
+
 end
 
 subgraph To_Do
-  id1["Laser cut switch-bottom plates (minimalist, full plate, etc)"];
-  id2["my own ZMK firmware"]
-  id3["MX, Kailh Choc V1, Redragon switch support"]
+  A["Laser cut switch-bottom plates (minimalist, full plate, etc)"];
+  B["ZMK"];
+  C["vial/qmk"];
+  D["space bar bridged version"];
+  E["mill max 0305 compatability test"]
+
 end
 
 
@@ -26,6 +30,8 @@ Original PCB
 Redragon PCB
 <img src="./images/What will multi switch support looks like.png" alt="for blind people, I just put redragon footprint on top of the old design" width="700"/>
 If I just put redragon footprint on top of the old design, I think this will work with minimal change to the number 2 pad (make it smaller ?) I will try, 2$ per order anyway.
+<img src="./images/FirstPrototype.png" width="700"/>
+First Protorype I ordered on JLCPCB
 
 
 
