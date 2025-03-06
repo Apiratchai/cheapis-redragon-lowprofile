@@ -1,15 +1,8 @@
 ```mermaid
 graph TD;
 
-subgraph In_Progress
-  id3["Cherry MX, Kailh Choc V1"] --> id4["Redragon Low Profile (reversible)"];
-  id5["First prototype is under production"];
-end
-
-subgraph To_Do
-  id1["Laser cut switch-bottom plates (minimalist, full plate, etc)"];
-  id2["my own ZMK firmware"]
-  id3["MX, Kailh Choc V1, Redragon switch support"]
+subgraph Branch Progress
+  id3["MultiSwitchesFootprint"] --> id4["PCB file"]--> id5["Gerber..."];
 end
 
 
@@ -29,7 +22,7 @@ If I just put redragon footprint on top of the old design, I think this will wor
 <img src="./images/MX_Redragon_Choc.png" width="700"/>
 The tri-switch-supported version (MX, Redragon, Choc) will have different stem hole cutouts, with MX and Choc featuring larger openings than Redragon. To prevent short circuits, Redragon switch pins have to be bent when installed.
 <img src="./images/FirstPrototype.png" width="700"/>
-First Protorype I ordered on JLCPCB
+First Protorype (of the main branch, redragon only) I ordered on JLCPCB
 
 
 # cheapis (The Original)
