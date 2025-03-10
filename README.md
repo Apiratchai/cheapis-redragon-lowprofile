@@ -31,7 +31,7 @@ Redragon PCB
 <img src="./images/What will multi switch support looks like.png" alt="for blind people, I just put redragon footprint on top of the old design" width="700"/>
 If I just put redragon footprint on top of the old design, I think this will work with minimal change to the number 2 pad (make it smaller ?) I will try, 2$ per order anyway.
 <img src="./images/FirstPrototype.png" width="700"/>
-First Protorype I ordered on JLCPCB
+First Protorype I ordered on JLCPCB. If you notice the wires not connected, it has been fixed (maybe).
 
 
 
