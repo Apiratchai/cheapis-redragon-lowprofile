@@ -1,6 +1,3 @@
-# Has some major design flaws
-The keyboard won't work and I'm fixing it
-
 ```mermaid
 graph TD;
 
