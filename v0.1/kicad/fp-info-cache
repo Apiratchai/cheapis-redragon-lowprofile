@@ -1,4 +1,4 @@
-24737347043143294
+24740830316796991
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -88907,12 +88907,26 @@ WiFi IEEE802.11 b/g/n
 44
 44
 Redragon
+MultiSwitches_MX_Redragon_ChocV1
+
+
+0
+26
+3
+Redragon
 SW_Redragon_LowProfile_PCB_1.00u
 Cherry MX keyswitch PCB Mount with 1.00u keycap
 Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.00u
 0
 8
 3
+Redragon
+SW_Redragon_NoVia_LowProfile_PCB_1.00u_1
+Cherry MX keyswitch PCB Mount with 1.00u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.00u
+0
+3
+2
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
