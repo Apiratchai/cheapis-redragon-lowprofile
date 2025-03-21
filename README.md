@@ -3,16 +3,14 @@ graph TD;
 
 subgraph In_Progress
   id1["Cherry MX, Kailh Choc V1"] --> id2["Redragon Low Profile (reversible)"] --> id3["All MX, Kailh Choc V1, Redragon low profile switches support (In Branch)"];
-  id4["First prototype is under production (JLC)"];
 
 end
 
 subgraph To_Do
   A["Laser cut switch-bottom plates (minimalist, full plate, etc)"];
-  B["ZMK"];
-  C["vial/qmk"];
-  D["space bar bridged version"];
-  E["mill max 0305 compatability test"]
+  B["space bar bridged version"];
+  C["mill max 0305 compatability test"];
+  D["Encoders or more switches n the thumb cluster"]
 
 end
 
